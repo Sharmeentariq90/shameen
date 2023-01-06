@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(../images/pexels-asad-photo-maldives-457881.jpg);
+    background-position: center;
+    
+   
+}
+.about{
+    height: 300pv;
+    width: 80%;
+    margin: 100px;
+    padding: 30px;
+    color:black;
+    border-color: black;
+    border-style: groove;
+    border-radius: 20px;
+  background-position: center;
+
+    
+    
+}
