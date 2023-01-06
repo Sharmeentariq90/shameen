@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    font-size: 30px;
+    font-weight: bold;
+
+    float:left;
+    color:black;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+cursor: pointer;
+}
+
+.card {
+    width: 20%;
+    margin: 5%;
+    padding: 5px;
+    background-color: aqua;
+    border-radius: 5px;
+    display: inline-block;
+    colon-gap: 10px;
+    display:table-row-group;
+    
+    
+}
+.image img {
+    width: 100%;
+
+}
+
+.title {
+    text-align: center;
+    padding: 5px;
+}
+
+.details {
+    text-align: center;
+}
+
+.button {
+    margin: 5%;
+    border-radius: 5px;
+
+
+}
